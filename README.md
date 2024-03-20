@@ -1,2 +1,2 @@
 #  Pattern_Program
-Here i have practicing all my pattern programs.
+Here in this repo i am pushing all the pattern programs i am practicing daily by using java
