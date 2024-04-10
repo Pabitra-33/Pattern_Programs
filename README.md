@@ -1,2 +1,2 @@
-#  Pattern_Program
-In this repository,i am pushing all the pattern programs i am practicing daily by using java programming language.
+#  Pattern_Programs
+I used this repository all the pattern programs i am practicing daily by using java programming language.
